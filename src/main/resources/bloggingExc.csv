@@ -1,0 +1,6 @@
+postId,postTitle,postBody,username,userEmail,userPassword,category
+1,post1,body1,eneida,eneida,111,spring
+2,post2,body2,enola,enola,111,spring
+3,post3,body3,arkid,arkid,11,python
+4,post4,body4,juli,juli,111,finance
+5,post5,body5,klejton,klejton,111,accounting
